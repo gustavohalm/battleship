@@ -1,0 +1,3 @@
+Jogo Batalaha Naval desenvolvido em C para trabalho para matéria de Algoritmos e Linguagens de Programação
+
+Battleship game developed in C language for school work to Programming Languages and Algorithms. 
